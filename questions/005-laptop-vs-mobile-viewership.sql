@@ -14,14 +14,7 @@
 -- )
 
 -- Solution:
-WITH agg_devices AS (
-    SELECT
-        user_id,
-        device_type
-    FROM viewership
-    GROUP BY user_id, device_type
-)
 SELECT
-    SUM(CASE WHEN device_type = 'laptop' THEN 1 END) AS laptop_views,
-    SUM(CASE WHEN device_type != 'laptop' THEN 1 END) AS tablet_views
-FROM agg_devices;
+    SUM(CASE WHEN device_type = 'laptop' THEN 1 ELSE 0 END) AS laptop_views,
+    SUM(CASE WHEN device_type IN ('tablet', 'phone') THEN 1 ELSE 0 END) AS mobile_views
+FROM viewership;
