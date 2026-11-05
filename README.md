@@ -20,3 +20,4 @@ Each file in [`questions/`](questions/) contains the problem link, a short summa
 | 012 | [Final Account Balance](questions/012-final-account-balance.sql) |
 | 013 | [App Click-through Rate (CTR)](questions/013-app-click-through-rate.sql) |
 | 014 | [Second Day Confirmation](questions/014-second-day-confirmation.sql) |
+| 015 | [IBM db2 Product Analytics](questions/015-ibm-db2-product-analytics.sql) |
