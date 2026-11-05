@@ -17,3 +17,4 @@ Each file in [`questions/`](questions/) contains the problem link, a short summa
 | 009 | [Cities With Completed Trades](questions/009-cities-with-completed-trades.sql) |
 | 010 | [Average Review Ratings](questions/010-average-review-ratings.sql) |
 | 011 | [Well Paid Employees](questions/011-well-paid-employees.sql) |
+| 012 | [Final Account Balance](questions/012-final-account-balance.sql) |
