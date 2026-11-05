@@ -19,3 +19,4 @@ Each file in [`questions/`](questions/) contains the problem link, a short summa
 | 011 | [Well Paid Employees](questions/011-well-paid-employees.sql) |
 | 012 | [Final Account Balance](questions/012-final-account-balance.sql) |
 | 013 | [App Click-through Rate (CTR)](questions/013-app-click-through-rate.sql) |
+| 014 | [Second Day Confirmation](questions/014-second-day-confirmation.sql) |
