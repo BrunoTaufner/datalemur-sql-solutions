@@ -14,3 +14,4 @@ Each file in [`questions/`](questions/) contains the problem link, a short summa
 | 006 | [Average Post Hiatus (Part 1)](questions/006-average-post-hiatus.sql) |
 | 007 | [Teams Power Users](questions/007-teams-power-users.sql) |
 | 008 | [Duplicate Job Listings](questions/008-duplicate-job-listings.sql) |
+| 009 | [Cities With Completed Trades](questions/009-cities-with-completed-trades.sql) |
