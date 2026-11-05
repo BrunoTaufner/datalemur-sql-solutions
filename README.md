@@ -15,3 +15,4 @@ Each file in [`questions/`](questions/) contains the problem link, a short summa
 | 007 | [Teams Power Users](questions/007-teams-power-users.sql) |
 | 008 | [Duplicate Job Listings](questions/008-duplicate-job-listings.sql) |
 | 009 | [Cities With Completed Trades](questions/009-cities-with-completed-trades.sql) |
+| 010 | [Average Review Ratings](questions/010-average-review-ratings.sql) |
